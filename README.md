@@ -1,6 +1,7 @@
 # Vision-based FDM Printing System
 
 tl,dr: This project presents a FDM 3D printing workflow with integrated real-time defect detection and correction capabilities.
+Paper link: https://arxiv.org/abs/2312.01135 
 
 This system propose a low-cost approach to improve the print quality of desktop fused deposition modeling by adding a webcam to the printer to monitor the printing process and detect and correct defects such as holes or gaps. This approach improves
 the air-tightness of printed pneumatic structures without extensive finetuning printing parameters.
