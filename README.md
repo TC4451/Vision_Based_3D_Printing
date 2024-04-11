@@ -6,6 +6,7 @@ This system propose a low-cost approach to improve the print quality of desktop 
 the air-tightness of printed pneumatic structures without extensive finetuning printing parameters.
 
 <img src="pictures/robosoft_fig1_v6.png" height="300rm">
+<img src="pictures/workflow_diagram.png" height="200rm">
 <img src="pictures/robosoft_fig5_v1.png" height="200rm">
 <img src="pictures/z_pattern_v4.png" height="150rm">
 
