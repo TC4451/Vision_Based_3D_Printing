@@ -1,0 +1,16 @@
+trash/
+correction_gcode_file/
+iron_layer_gcode_file/
+gcode/
+elp_test/
+__pycache__/
+images/
+layerwise_gcode_file/
+test_parsing/
+logs/
+bellow_layer_gcode_file/
+triangle_layer_gcode_file/
+
+
+
+**/.DS_Store
